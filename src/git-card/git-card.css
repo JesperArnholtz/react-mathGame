@@ -1,0 +1,21 @@
+.git-card-list{ 
+    padding: 0 30vw;
+    
+}
+
+.git-card *{ 
+    text-align: left;
+}
+
+.git-card img{ 
+    /* float: left; */
+}
+
+.card-info{ 
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.card-info__name{ 
+    font-weight: bold;
+}
